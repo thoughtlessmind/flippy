@@ -2,6 +2,10 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * APp Component
+ * @return {React.ReactNode}
+ */
 function App() {
   return (
     <div className="App">
