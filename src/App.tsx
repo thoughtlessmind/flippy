@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 /**
- * APp Component
+ * App Component
  * @return {React.ReactNode}
  */
 function App() {
