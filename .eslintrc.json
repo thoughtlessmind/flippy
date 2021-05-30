@@ -19,9 +19,12 @@
         "react",
         "prettier/"
     ],
-    "rules": {},
+    "rules": {
+        "valid-jsdoc": "warn",
+        "require-jsdoc": "warn"
+    },
     "settings": {
-        "react":{
+        "react": {
             "version": "latest"
         }
     }
