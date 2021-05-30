@@ -17,12 +17,15 @@
     },
     "plugins": [
         "react",
-        "prettier/"
+        "prettier"
     ],
     "rules": {
         "valid-jsdoc": "warn",
         "require-jsdoc": "warn",
-        "linebreak-style":"off"
+        "linebreak-style": "off",
+        "object-curly-spacing": "off",
+        "react/prop-types": "warn",
+        "no-unused-vars": "warn"
     },
     "settings": {
         "react": {
